@@ -51,13 +51,14 @@ style="border:none; box-shadow: 0px 0px 10px rgba(0,0,0,0.3); background-color: 
 <table width="100%" cellpadding="10" style="background-color: #ffebcd; border-collapse: collapse;">
 <tr>
 <td align="center" style="color: #696969;">
-© 2025 Krusty Krab Hiring System | Sta. Elena High School | Created by Kyle Gabriel B. Aldea
+© 2025 Krusty Krab Hiring System | Sta. Elena High School 9 - Assertiveness| Created by Kyle Gabriel B. Aldea
 </td>
 </tr>
 </table>
 
 </body>
 </html>
+
 
 
 
