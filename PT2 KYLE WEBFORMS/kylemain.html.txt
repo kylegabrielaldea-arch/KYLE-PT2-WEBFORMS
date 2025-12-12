@@ -5,7 +5,6 @@
 </head>
 <body style="margin:0; font-family: Arial, sans-serif; background-color: #f0f8ff;">
 
-<!-- HEADER -->
 <table width="100%" cellpadding="10" style="background-color: #ffebcd; border-collapse: collapse;">
 <tr>
 <td width="25%" align="center">
@@ -22,10 +21,10 @@
 </tr>
 </table>
 
-<!-- MAIN LAYOUT -->
+
 <table width="100%" cellpadding="10" style="border-collapse: collapse;">
 <tr>
-<!-- SIDEBAR -->
+
 <td width="25%" valign="top" style="background-color: #fffacd; color: #000; padding: 15px;">
 <h3 style="color: #ff6347;">🍔 Krusty Krab Menu</h3>
 <ul style="list-style-type: none; padding-left: 0;">
@@ -36,7 +35,6 @@
 <p><b>Tip:</b> Click any form to view it on the right!</p>
 </td>
 
-<!-- CONTENT AREA -->
 <td width="75%" valign="top" style="background-color: #e0ffff; padding: 15px;">
 <iframe
 src="welcome.html"
@@ -60,4 +58,5 @@ style="border:none; box-shadow: 0px 0px 10px rgba(0,0,0,0.3); background-color: 
 
 </body>
 </html>
+
 
